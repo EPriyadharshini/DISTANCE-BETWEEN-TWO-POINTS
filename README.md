@@ -10,10 +10,20 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
+```
+#Program to circulate N values.
+#Developed by: E.Priyadharshini
+#RegisterNumber: 23012593
+def circulate ():
+b=a [n: ] +a [:n]
+print ("After circulating the values are:",b)
+a=eval (input ()]
+n=int (input ())
+
+```
   
-
-
-### OUTPUT:
-
+##  OUTPUT:
+![Alt text](<output 3.png>)
 
 ### RESULT:
+Thus The Distance Between Two Points are Sucessfully Executed 
