@@ -23,7 +23,7 @@ n=int (input ())
 ```
   
 ##  OUTPUT:
-![Alt text](<output 3.png>)
+![output](<output 3.png>)
 
 ### RESULT:
 Thus The Distance Between Two Points are Sucessfully Executed 
